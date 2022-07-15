@@ -8,7 +8,7 @@ getAnimeQuotes();
 
 async function getAnimeQuotes() {
   // Make a fetch request to get json data from the api
-  const response = await fetch("https://animechan.vercel.app/api/rando")
+  const response = await fetch("https://animechan.vercel.app/api/random")
 
   // Check if response was successful or not using the .ok method
   if (!response.ok) {
