@@ -21,7 +21,7 @@ async function getAnimeQuotes() {
   // Display HTMl using the API's data
   animeTitle.innerHTML = data.anime;
   animeCharacter.innerHTML = data.character;
-  animeQuote.innerHTML = data.quote;
+  animeQuote.innerHTML = `"${data.quote}"`;
 }
 
 button.addEventListener('click', getAnimeQuotes);

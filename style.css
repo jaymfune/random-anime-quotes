@@ -52,8 +52,6 @@ h2 {
 }
 
 .anime__character {
-    border-bottom: 2px solid var(--text);
-    width: 0.9375rem;
     margin-inline: auto;
     padding-bottom: 0.5rem;
     margin-bottom: 0rem;
