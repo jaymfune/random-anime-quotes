@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![App Screenshot](https://i.ibb.co/GcBpnTr/randomanimequote2.png)
+![App Screenshot](https://i.ibb.co/x16SwTz/randomanimequote2.png)
 
 
 # Lessons
